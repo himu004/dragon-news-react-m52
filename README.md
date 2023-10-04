@@ -1,8 +1,8 @@
-## Dragon News with Firebase Autthentication 
+# Dragon News with Firebase Autthentication
 
--- React
--- tailwindCSS
--- DaisyUi
--- Marque Slider
--- Moments Js
--- Firebase
+- React 
+- tailwindCSS 
+- DaisyUi 
+- Marque Slider 
+- Moments Js 
+- Firebase
